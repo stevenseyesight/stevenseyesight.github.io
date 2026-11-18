@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="bg">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Страницата не е намерена | Steven's Eyesight</title>
+  <meta name="description" content="Страницата не е намерена.">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#F4F1EA" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1A1511" media="(prefers-color-scheme: dark)">
+
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@400..700&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <script>document.documentElement.classList.add('js');</script>
+</head>
+<body class="">
+
+  <header class="site-header" id="top">
+    <div class="header-inner">
+      <a class="brand" href="index.html" aria-label="Steven's Eyesight, начало">
+        <img class="brand-logo" src="images/logo.png" alt="" width="179" height="238">
+        <span class="brand-name">Steven's Eyesight</span>
+      </a>
+
+      <button class="nav-toggle" type="button" aria-label="Меню" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span>
+      </button>
+
+      <nav class="site-nav" id="site-nav" aria-label="Главно меню">
+        <ul>
+          <li><a href="index.html">Начало</a></li>
+          <li><a href="services.html">Услуги</a></li>
+          <li><a href="portfolio.html">Портфолио</a></li>
+          <li><a href="about.html">За мен</a></li>
+          <li class="has-dropdown">
+            <button class="dropdown-toggle" type="button" aria-expanded="false" aria-controls="contact-menu">
+              Контакт
+              <svg class="chev" width="10" height="10" viewBox="0 0 10 10" aria-hidden="true"><path d="M1.5 3.5 5 7l3.5-3.5" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
+            </button>
+            <ul class="dropdown" id="contact-menu">
+              <li><a href="mailto:stevenseyesight@gmail.com">Имейл</a></li>
+              <li><a href="https://www.facebook.com/stevenseyesight/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+              <li><a href="https://www.instagram.com/stevenseyesight/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <div class="nav-backdrop" hidden></div>
+
+  <main class="page-main notfound">
+    <div class="wrap">
+      <p class="nf-code">404</p>
+      <h1>Тази страница не е намерена</h1>
+      <p>Може адресът да е грешен или страницата да е преместена.</p>
+      <a class="btn" href="index.html">Към началото</a>
+    </div>
+  </main>
+
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p class="copyright">&copy; <span id="year">2026</span> Steven's Eyesight. Всички права запазени.</p>
+      <ul class="social" aria-label="Социални мрежи и имейл">
+        <li>
+          <a href="https://www.facebook.com/stevenseyesight/" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+            <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M13.5 21v-7.6h2.6l.4-3h-3V8.5c0-.9.3-1.5 1.5-1.5h1.6V4.3c-.3 0-1.2-.1-2.3-.1-2.3 0-3.9 1.4-3.9 4v2.2H7.8v3h2.6V21h3.1z"/></svg>
+          </a>
+        </li>
+        <li>
+          <a href="https://www.instagram.com/stevenseyesight/" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+            <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><rect x="3.5" y="3.5" width="17" height="17" rx="5" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="17.2" cy="6.8" r="1.2" fill="currentColor"/></svg>
+          </a>
+        </li>
+        <li>
+          <a href="mailto:stevenseyesight@gmail.com" aria-label="Имейл">
+            <svg width="20" height="20" viewBox="0 0 24 24" aria-hidden="true"><rect x="3" y="5.5" width="18" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m4 7.5 8 6 8-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </footer>
+
+
+  <script src="js/main.js"></script>
+</body>
+</html>

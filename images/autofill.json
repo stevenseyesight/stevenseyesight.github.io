@@ -1,0 +1,103 @@
+{
+ "images/slides/slide-1.jpg": {
+  "sha": "f0cc348cf56dfa5efcba620b79dc9bfa752fca5e",
+  "placeholder": false,
+  "ver": 2
+ },
+ "images/slides/slide-2.jpg": {
+  "sha": "9c8383b100fba2d8126f13753b8428f6755008bd",
+  "placeholder": false,
+  "ver": 2
+ },
+ "images/slides/slide-3.jpg": {
+  "sha": "c0e168526891cb79dec4574122d258b32bdd8a41",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/slides/slide-4.jpg": {
+  "sha": "4b60d1f6192dc005cd681a4f4a52ceec332d4bdd",
+  "placeholder": false,
+  "ver": 2
+ },
+ "images/slides/slide-5.jpg": {
+  "sha": "ffc5c185223f5cec0b04bde1f72bbb1f7b3285a2",
+  "placeholder": false,
+  "ver": 2
+ },
+ "images/slides/slide-6.jpg": {
+  "sha": "bca73f72c75130eae0b92ba902f47a1205ab53a2",
+  "placeholder": false,
+  "ver": 2
+ },
+ "images/services/engagement.jpg": {
+  "sha": "86932ef001f2885343e3e25245801a02a2594696",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/services/events.jpg": {
+  "sha": "9240153ea18e6f6a7a4e0299fbd5b6d9f86bac38",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/services/photoshoot.jpg": {
+  "sha": "ba6d1b178f504be6833b6f24e7e958a491cc9baa",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/services/prom.jpg": {
+  "sha": "6a68fbe298df965b9612d40cee0de19aae455d13",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/services/wedding.jpg": {
+  "sha": "3eedc7df07743c720443c19850deedd41d7405be",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f1.jpg": {
+  "sha": "f0cc348cf56dfa5efcba620b79dc9bfa752fca5e",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f2.jpg": {
+  "sha": "9c8383b100fba2d8126f13753b8428f6755008bd",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f3.jpg": {
+  "sha": "db07a19a993b5b82f4eea8998790f5e1ed203f3c",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f4.jpg": {
+  "sha": "6eac83c24ec00e14325dca194a826c40868eb120",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f5.jpg": {
+  "sha": "4b60d1f6192dc005cd681a4f4a52ceec332d4bdd",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f6.jpg": {
+  "sha": "755deaf3d9ac69b89df07c8d0a3894373dd6e942",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f7.jpg": {
+  "sha": "01cb4cd64a29080757b37c912ca54f736e0d558b",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f8.jpg": {
+  "sha": "ffc5c185223f5cec0b04bde1f72bbb1f7b3285a2",
+  "placeholder": false,
+  "ver": 3
+ },
+ "images/featured/f9.jpg": {
+  "sha": "c7cf84724b9b3ddf25fb6d4c4efc45569a0aef23",
+  "placeholder": false,
+  "ver": 3
+ },
+ "_slides_count": 23
+}
